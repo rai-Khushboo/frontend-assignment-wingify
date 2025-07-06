@@ -2,15 +2,20 @@
 
 This repository contains my submission for the Wingify Frontend Assignment. The project focuses on delivering a responsive, accessible, and SEO-optimized landing page that adheres to modern web development standards.
 
+---
+
 ## 🔗 Live Demo  
-Hosted via [Surge](https://ux-intern-khushboo.surge.sh)  
+Hosted via **[Surge](https://ux-intern-khushboo.surge.sh)**
+
 ---
 
 ## 📸 Screenshots
 
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![Desktop Screenshot]() | ![Mobile Screenshot]() |
+### 💻 Desktop View  
+![Desktop Screenshot](https://github.com/user-attachments/assets/a1a84ab8-5aa0-401b-a728-8ef0d83efa12)
+
+### 📱 Mobile View  
+![Mobile Screenshot](https://github.com/user-attachments/assets/17de12bb-454e-4869-a786-362e0cff63bc)
 
 ---
 
@@ -61,7 +66,6 @@ Validated using the [W3C Markup Validator](https://validator.w3.org/):
 
 ## 🙋‍♀️ Author
 
-**Khushboo Kumari**  
+**Khushboo Kumari**
 
 ---
-
